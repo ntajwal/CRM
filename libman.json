@@ -1,0 +1,24 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "popper.js@2.4.0",
+      "destination": "wwwroot/adminlte/components/popper.js/",
+      "files": [
+        "cjs/popper-base.js",
+        "cjs/popper-base.js.map",
+        "cjs/popper-base.min.js",
+        "cjs/popper-base.min.js.map",
+        "cjs/popper-lite.js",
+        "cjs/popper-lite.js.map",
+        "cjs/popper-lite.min.js",
+        "cjs/popper-lite.min.js.map",
+        "cjs/popper.js",
+        "cjs/popper.js.map",
+        "cjs/popper.min.js",
+        "cjs/popper.min.js.map"
+      ]
+    }
+  ]
+}
